@@ -1,0 +1,15 @@
+ES6
+
+- number - number
+- string - string
+- boolean - boolean
+- null - object
+- undefined - undefined
+- [] - object
+- {} - object
+- Symbol - symbol
+
+TS 
+null - null
+any
+uknown
